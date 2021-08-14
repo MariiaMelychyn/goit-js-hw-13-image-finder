@@ -1,7 +1,8 @@
 import apiService from './apiService';
-import markupTp1 from './markupTemplate';
+import markupTpl from './markupTemplate';
 import refs from './refs';
-import * as basicLightbox from 'basicLightbox';
+
+import * as basicLightbox from 'basiclightbox';
 import 'basiclightbox/dist/basicLightbox.min.css';
 
 const API_KEY = '22926721-5d20aa08498ffd1ff2f906542';
